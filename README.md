@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Hi there 👋
  <div>
   <a href="https://github.com/sergiossantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiossantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,7 +12,6 @@
   <img align="center" alt="Sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sergio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sergio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Sergio-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   ##
