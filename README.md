@@ -1,4 +1,3 @@
-### Hi there 👋
  <div>
   <a href="https://github.com/sergiossantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiossantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
